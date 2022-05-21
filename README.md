@@ -55,7 +55,7 @@ Full-Stack developer
 <a href='https://nextjs.org/'>
   <img
     alt='Next'
-    src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'
+    src='https://img.shields.io/static/v1?logo=next.js&label=%20&message=Next&color=black&logoColor=DD0031'
   />
 </a>
 
@@ -203,7 +203,6 @@ Full-Stack developer
   <img
     alt='Figma'
     src='https://img.shields.io/static/v1?logo=figma&label=%20&message=Figma&color=black&logoColor=2B579A'
-
 />
 </a>
 <a href='https://www.adobe.com/it/'>
