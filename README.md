@@ -214,7 +214,7 @@ Full-Stack developer
 
 #### Human Languages
 
-<h4>Italian</h4><h4>English</h4>
+<span>Italian</span><br/><span>English</span>
 
 <!--
 **daniele24134/daniele24134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
