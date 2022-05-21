@@ -208,7 +208,7 @@ Full-Stack developer
 <a href='https://www.adobe.com/it/'>
 <img
     alt='Adobe Illustator'
-    src='https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'
+    src='https://img.shields.io/static/v1?logo=adobe%20illustrator&label=%20&message=Adobe%20Illustrator&color=black&logoColor=2B579A'
   />
 </a>
 
