@@ -157,13 +157,13 @@ Full-Stack developer
 <a href='https://rubyonrails.org/'>
   <img
     alt='Ruby on Rails'
-    src='https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white'
+    src='https://img.shields.io/static/v1?logo=ruby-on-rails&label=%20&message=Rails&color=black&logoColor=CC342D'
   />
 </a>
 <a href='https://reactnative.dev/'>
   <img
     alt='React Native'
-    src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'
+    src='https://img.shields.io/static/v1?logo=react&label=%20&message=React_Native&color=black&logoColor=CC342D'
   />
 </a>
 
