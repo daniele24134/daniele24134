@@ -202,17 +202,12 @@ Full-Stack developer
 <a href='https://www.figma.com'>
   <img
     alt='Figma'
-    src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'
-  />
-</a>
-<a href='https://www.figma.com'>
-  <img
-    alt='Figma'
-    src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'
-  />
+    src='https://img.shields.io/static/v1?logo=figma&label=%20&message=Figma&color=black&logoColor=2B579A'
+
+/>
 </a>
 <a href='https://www.adobe.com/it/'>
-  <img
+<img
     alt='Adobe Illustator'
     src='https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'
   />
