@@ -163,7 +163,7 @@ Full-Stack developer
 <a href='https://reactnative.dev/'>
   <img
     alt='React Native'
-    src='https://img.shields.io/static/v1?logo=react&label=%20&message=React_Native&color=black&logoColor=CC342D'
+    src='https://img.shields.io/static/v1?logo=react&label=%20&message=React%20Native&color=black&logoColor=CC342D'
   />
 </a>
 
