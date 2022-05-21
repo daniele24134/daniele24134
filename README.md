@@ -130,14 +130,14 @@ Full-Stack developer
 <a href='https://mochajs.org/'>
   <img
     alt='Mocha'
-    src='https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white'
+    src='https://img.shields.io/static/v1?logo=mocha&label=%20&message=Mocha&color=black'
   />
 </a>
 <a href='https://testing-library.com/'>
   <img
     alt='Testing Library'
-    src='https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white'
-  />
+    src='https://img.shields.io/static/v1?logo=testing-library&label=%20&message=TestingLibrary&color=black'
+/>
 </a>
 
 #### Other Languages and Frameworks
